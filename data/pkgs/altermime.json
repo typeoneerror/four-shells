@@ -1,0 +1,62 @@
+{
+ "0.3.10": {
+  "meta": {
+   "description": "MIME alteration tool",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [
+    "Michael Raskin <7c6f434c@mail.ru>"
+   ],
+   "name": "altermime",
+   "platforms": [
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc-linux",
+    "armv5tel-linux",
+    "mips64el-linux"
+   ],
+   "position": ""
+  },
+  "revs": [
+   "000051b196b82d30d1008c8999502c484ea5bd7d",
+   "7731621c81b5cd601a176c2109b44c5295049f20"
+  ]
+ },
+ "0.3.11": {
+  "meta": {
+   "description": "MIME alteration tool",
+   "homepage": "",
+   "license": {
+    "fullName": "alterMIME LICENSE"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "7c6f434c@mail.ru",
+     "github": "7c6f434c",
+     "name": "Michael Raskin"
+    }
+   ],
+   "name": "altermime",
+   "platforms": [
+    {
+     "kernel": {
+      "_type": "kernel",
+      "execFormat": {
+       "_type": "exec-format",
+       "name": "elf"
+      },
+      "families": {},
+      "name": "linux"
+     }
+    }
+   ],
+   "position": "pkgs/tools/networking/altermime/default.nix:25"
+  },
+  "revs": [
+   "00005ce0bdbc3c13804adc9a7fd71a02cc0b8db2",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "1.6-3.14.4": {
+  "meta": {
+   "description": "Device that allows access to Linux kernel cryptographic drivers",
+   "homepage": "http://home.gna.org/cryptodev-linux/",
+   "license": "GPLv2+",
+   "long_description": "",
+   "maintainers": [],
+   "name": "cryptodev-linux",
+   "platforms": null,
+   "position": "pkgs/os-specific/linux/cryptodev/default.nix:26"
+  },
+  "revs": [
+   "008dc39ca3117d837e5eb8c099386a55d912fd32",
+   "453f93cc92de42a4c695c3d241f74ffa41a6fb64"
+  ]
+ },
+ "1.6-3.2.58": {
+  "meta": {
+   "description": "Device that allows access to Linux kernel cryptographic drivers",
+   "homepage": "http://home.gna.org/cryptodev-linux/",
+   "license": "GPLv2+",
+   "long_description": "",
+   "maintainers": [],
+   "name": "cryptodev-linux",
+   "platforms": null,
+   "position": "pkgs/os-specific/linux/cryptodev/default.nix:26"
+  },
+  "revs": [
+   "00692e725504840facdb67e46fe23dc42db6a3b2",
+   "80d0e31a947fd1f07a9fa65c079991980d0fc5bb"
+  ]
+ }
+}

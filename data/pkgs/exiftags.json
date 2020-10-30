@@ -1,0 +1,20 @@
+{
+ "1.01": {
+  "meta": {
+   "description": "Displays EXIF data from JPEG files",
+   "homepage": "http://johnst.org/sw/exiftags/",
+   "license": "free",
+   "long_description": "",
+   "maintainers": [
+    "Llu\u00eds Batlle i Rossell <viric@viric.name>"
+   ],
+   "name": "exiftags",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "000051b196b82d30d1008c8999502c484ea5bd7d",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

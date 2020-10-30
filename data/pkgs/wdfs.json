@@ -1,0 +1,18 @@
+{
+ "1.4.2": {
+  "meta": {
+   "description": "wdfs a user-space filesystem that allows to mount a webdav share",
+   "homepage": "http://noedler.de/projekte/wdfs/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "wdfs-fuse",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "000051b196b82d30d1008c8999502c484ea5bd7d",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

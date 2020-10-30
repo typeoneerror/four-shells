@@ -1,0 +1,52 @@
+{
+ "183": {
+  "meta": {
+   "description": "LDAP backend for PAM",
+   "homepage": "http://www.padl.com/OSS/pam_ldap.html",
+   "license": "LGPL",
+   "long_description": "The pam_ldap module provides the means for Solaris and Linux servers and\nworkstations to authenticate against LDAP directories, and to change their\npasswords in the directory.",
+   "maintainers": [],
+   "name": "pam_ldap",
+   "platforms": [
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc-linux",
+    "armv5tel-linux",
+    "mips64el-linux"
+   ],
+   "position": ""
+  },
+  "revs": [
+   "000051b196b82d30d1008c8999502c484ea5bd7d",
+   "7731621c81b5cd601a176c2109b44c5295049f20"
+  ]
+ },
+ "186": {
+  "meta": {
+   "description": "LDAP backend for PAM",
+   "homepage": "http://www.padl.com/OSS/pam_ldap.html",
+   "license": "LGPL",
+   "long_description": "The pam_ldap module provides the means for Solaris and Linux servers and\nworkstations to authenticate against LDAP directories, and to change their\npasswords in the directory.",
+   "maintainers": [],
+   "name": "pam_ldap",
+   "platforms": [
+    {
+     "kernel": {
+      "_type": "kernel",
+      "execFormat": {
+       "_type": "exec-format",
+       "name": "elf"
+      },
+      "families": {},
+      "name": "linux"
+     }
+    }
+   ],
+   "position": "pkgs/os-specific/linux/pam_ldap/default.nix:25"
+  },
+  "revs": [
+   "00005ce0bdbc3c13804adc9a7fd71a02cc0b8db2",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

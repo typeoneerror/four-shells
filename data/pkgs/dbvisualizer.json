@@ -1,0 +1,62 @@
+{
+ "9.2.5": {
+  "meta": {
+   "description": "The universal database tool",
+   "homepage": "https://www.dbvis.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [],
+   "name": "dbvisualizer",
+   "platforms": null,
+   "position": "pkgs/applications/misc/dbvisualizer/default.nix:21"
+  },
+  "revs": [
+   "082b0ee2a14b111c26108ecafab86d1e73992c85",
+   "256d2950b9f5eb1ba64132052763cb695fdaeae1"
+  ]
+ },
+ "9.5": {
+  "meta": {
+   "description": "The universal database tool",
+   "homepage": "https://www.dbvis.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [],
+   "name": "dbvisualizer",
+   "platforms": null,
+   "position": "pkgs/applications/misc/dbvisualizer/default.nix:21"
+  },
+  "revs": [
+   "00105162f413ea8e8a419da0fc5b556e3737e82f",
+   "7731621c81b5cd601a176c2109b44c5295049f20"
+  ]
+ },
+ "9.5.7": {
+  "meta": {
+   "description": "The universal database tool",
+   "homepage": "https://www.dbvis.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [],
+   "name": "dbvisualizer",
+   "platforms": null,
+   "position": "pkgs/applications/misc/dbvisualizer/default.nix:21"
+  },
+  "revs": [
+   "00005ce0bdbc3c13804adc9a7fd71a02cc0b8db2",
+   "4c8a8800d3fc49f0f2f04b1b6200173dec10d8a6"
+  ]
+ }
+}

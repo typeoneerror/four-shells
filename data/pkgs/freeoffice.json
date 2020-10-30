@@ -1,0 +1,176 @@
+{
+ "2018.976": {
+  "meta": {
+   "description": "An office suite with a word processor, spreadsheet and presentation program",
+   "homepage": "https://www.softmaker.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "me@danieldk.eu",
+     "github": "danieldk",
+     "githubId": 49398,
+     "name": "Dani\u00ebl de Kok"
+    }
+   ],
+   "name": "freeoffice",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/office/softmaker/generic.nix:118"
+  },
+  "revs": [
+   "000404944c6da404f013111563bcc0084b270e28",
+   "4c8a8800d3fc49f0f2f04b1b6200173dec10d8a6"
+  ]
+ },
+ "2018.978": {
+  "meta": {
+   "description": "An office suite with a word processor, spreadsheet and presentation program",
+   "homepage": "https://www.softmaker.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "me@danieldk.eu",
+     "github": "danieldk",
+     "githubId": 49398,
+     "name": "Dani\u00ebl de Kok"
+    }
+   ],
+   "name": "freeoffice",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/office/softmaker/generic.nix:118"
+  },
+  "revs": [
+   "001334b47c6cdfc35e94805380484e75004cdbf5",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ },
+ "973": {
+  "meta": {
+   "description": "An office suite with a word processor, spreadsheet and presentation program",
+   "homepage": "https://www.softmaker.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "me@danieldk.eu",
+     "github": "danieldk",
+     "githubId": 49398,
+     "name": "Dani\u00ebl de Kok"
+    }
+   ],
+   "name": "freeoffice",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/office/softmaker/generic.nix:115"
+  },
+  "revs": [
+   "000f19ff08cfaf6ce89b136ea986fde64f750555",
+   "7b9129a98146cff91360419541955f55c5a09aec"
+  ]
+ },
+ "974": {
+  "meta": {
+   "description": "An office suite with a word processor, spreadsheet and presentation program",
+   "homepage": "https://www.softmaker.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "me@danieldk.eu",
+     "github": "danieldk",
+     "githubId": 49398,
+     "name": "Dani\u00ebl de Kok"
+    }
+   ],
+   "name": "freeoffice",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/office/softmaker/generic.nix:115"
+  },
+  "revs": [
+   "0005b13fc5f3c4c3bf3d0bb5f7ea4330b36c0bcc",
+   "46d3cf2c1b45951753c059fc8a1d8c4e6c736785"
+  ]
+ },
+ "976": {
+  "meta": {
+   "description": "An office suite with a word processor, spreadsheet and presentation program",
+   "homepage": "https://www.softmaker.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "me@danieldk.eu",
+     "github": "danieldk",
+     "githubId": 49398,
+     "name": "Dani\u00ebl de Kok"
+    }
+   ],
+   "name": "freeoffice",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/office/softmaker/generic.nix:115"
+  },
+  "revs": [
+   "00022fbeda385d7b6ae2eee44f07eecfc6d92015",
+   "977ee466ae48ec4a9d94541c928c24d7f3146672"
+  ]
+ },
+ "978": {
+  "meta": {
+   "description": "An office suite with a word processor, spreadsheet and presentation program",
+   "homepage": "https://www.softmaker.com/",
+   "license": {
+    "free": false,
+    "fullName": "Unfree",
+    "shortName": "unfree"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "me@danieldk.eu",
+     "github": "danieldk",
+     "githubId": 49398,
+     "name": "Dani\u00ebl de Kok"
+    }
+   ],
+   "name": "freeoffice",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/office/softmaker/generic.nix:97"
+  },
+  "revs": [
+   "0056f627a0203501c82a74a59c7553b158cc9642",
+   "7fc57f2020ca1d4e70ff4dfb9c2dd0e67ecced39"
+  ]
+ }
+}

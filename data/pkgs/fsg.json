@@ -1,0 +1,18 @@
+{
+ "4.4": {
+  "meta": {
+   "description": "Falling Sand Game - a cellular automata engine tuned towards the likes of Falling Sand",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "fsg",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "000051b196b82d30d1008c8999502c484ea5bd7d",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

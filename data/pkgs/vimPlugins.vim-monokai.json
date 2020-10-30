@@ -1,0 +1,130 @@
+{
+ "2020-06-17": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5598"
+  },
+  "revs": [
+   "00022fbeda385d7b6ae2eee44f07eecfc6d92015",
+   "54a69eb80480016341d4825f272b9017a3bd0ac1"
+  ]
+ },
+ "2020-08-08": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5778"
+  },
+  "revs": [
+   "000bb5ee45e3fa0339ccf64f33a2959c553aeab1",
+   "4c8a8800d3fc49f0f2f04b1b6200173dec10d8a6"
+  ]
+ },
+ "2020-08-30": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5838"
+  },
+  "revs": [
+   "008f45f5916dd0fe3d9a591833fb92dce92dc777",
+   "43eae86de2f0f08cac4cc8c8f0e73f928bf97ad4"
+  ]
+ },
+ "2020-09-02": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5454"
+  },
+  "revs": [
+   "000404944c6da404f013111563bcc0084b270e28",
+   "9a8ee5568d5479b0c38b40eabbcc1340047b8abe"
+  ]
+ },
+ "2020-09-05": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5478"
+  },
+  "revs": [
+   "0065551641cccec146f6232df213d5cd30109e09",
+   "24aedc9a1437a048fb14386010e6a0f6bda6b74b"
+  ]
+ },
+ "2020-09-12": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5478"
+  },
+  "revs": [
+   "0023908b4ecef4e889a9bb524394f53c014950fe",
+   "14245d48a433f9470cb9a2072cc2c433078b6f35"
+  ]
+ },
+ "2020-09-30": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5514"
+  },
+  "revs": [
+   "002750572a39758aabf552e90b4d0ce65092ba58",
+   "94fd56594a6543fac73e972952d87ed635cfbda4"
+  ]
+ },
+ "2020-10-23": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/crusoexia/vim-monokai/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-monokai",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:5538"
+  },
+  "revs": [
+   "0126c86672b7d14843225df16ddfefd7091eabe7",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

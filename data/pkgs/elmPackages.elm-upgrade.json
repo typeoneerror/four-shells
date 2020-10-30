@@ -1,0 +1,50 @@
+{
+ "0.19.6": {
+  "meta": {
+   "description": "Upgrade Elm projects",
+   "homepage": "https://github.com/avh4/elm-upgrade#readme",
+   "license": "MIT",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_elm-upgrade",
+   "platforms": null,
+   "position": "pkgs/development/compilers/elm/packages/node-packages.nix:5640"
+  },
+  "revs": [
+   "000f19ff08cfaf6ce89b136ea986fde64f750555",
+   "0a5b8d9bf64b94ec36c61ad4da4c34cda85a7aed"
+  ]
+ },
+ "0.19.7": {
+  "meta": {
+   "description": "Upgrade Elm projects",
+   "homepage": "https://github.com/avh4/elm-upgrade#readme",
+   "license": "MIT",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_elm-upgrade",
+   "platforms": null,
+   "position": "pkgs/development/compilers/elm/packages/node-packages.nix:5685"
+  },
+  "revs": [
+   "001be890f78f04df86938f44c0761676e299ceac",
+   "7b9129a98146cff91360419541955f55c5a09aec"
+  ]
+ },
+ "0.19.8": {
+  "meta": {
+   "description": "Upgrade Elm projects",
+   "homepage": "https://github.com/avh4/elm-upgrade#readme",
+   "license": "MIT",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_elm-upgrade",
+   "platforms": null,
+   "position": "pkgs/development/compilers/elm/packages/node-packages.nix:12579"
+  },
+  "revs": [
+   "00022fbeda385d7b6ae2eee44f07eecfc6d92015",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

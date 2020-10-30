@@ -1,0 +1,18 @@
+{
+ "0.06": {
+  "meta": {
+   "description": "",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "perl-Scope-Upper",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "01519d1005d837579208218acc688904a583fb90",
+   "686ed295da7a5c58aac59a01726cb62572efd38c"
+  ]
+ }
+}

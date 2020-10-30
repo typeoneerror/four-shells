@@ -1,0 +1,63 @@
+{
+ "0.7.0": {
+  "meta": {
+   "description": "VDR SoftHDDevice Plug-in (with VA-API VPP additions)",
+   "homepage": "https://github.com/pesintta/vdr-plugin-vaapidevice",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "http://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "ck3d@gmx.de",
+     "github": "ck3d",
+     "name": "Christian K\u00f6gler"
+    }
+   ],
+   "name": "vdr-vaapidevice",
+   "platforms": [
+    "i686-linux",
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/video/vdr/plugins.nix:56"
+  },
+  "revs": [
+   "0000a86d7cd47005096a292a797d2e02ce29e8d8",
+   "4c8a8800d3fc49f0f2f04b1b6200173dec10d8a6"
+  ]
+ },
+ "20190525": {
+  "meta": {
+   "description": "VDR SoftHDDevice Plug-in (with VA-API VPP additions)",
+   "homepage": "https://github.com/pesintta/vdr-plugin-vaapidevice",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "ck3d@gmx.de",
+     "github": "ck3d",
+     "githubId": 25088352,
+     "name": "Christian K\u00f6gler"
+    }
+   ],
+   "name": "vdr-vaapidevice",
+   "platforms": [
+    "i686-linux",
+    "x86_64-linux"
+   ],
+   "position": "pkgs/applications/video/vdr/plugins.nix:77"
+  },
+  "revs": [
+   "002750572a39758aabf552e90b4d0ce65092ba58",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

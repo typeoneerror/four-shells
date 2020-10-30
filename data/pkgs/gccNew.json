@@ -1,0 +1,34 @@
+{
+ "4.1.1": {
+  "meta": {
+   "description": "GNU Compiler Collection, 4.1.x",
+   "homepage": "http://gcc.gnu.org/",
+   "license": "GPL/LGPL",
+   "long_description": "",
+   "maintainers": [],
+   "name": "gcc",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "062308aabfe3d46aaa2bd7a3ff474f4d51851ddf",
+   "8ae7731b635ec8673dad31188f4bcacfbf37751f"
+  ]
+ },
+ "4.1.2": {
+  "meta": {
+   "description": "GNU Compiler Collection, 4.1.x",
+   "homepage": "http://gcc.gnu.org/",
+   "license": "GPL/LGPL",
+   "long_description": "",
+   "maintainers": [],
+   "name": "gcc",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "030b604a1beb0c6162b8fa0b9800b3fca4a62085",
+   "210f4950ac5b58f58a542100401e5d335e49d1b8"
+  ]
+ }
+}

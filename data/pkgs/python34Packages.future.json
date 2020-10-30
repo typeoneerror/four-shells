@@ -1,0 +1,66 @@
+{
+ "0.14.3": {
+  "meta": {
+   "description": "Clean single-source support for Python 3 and 2",
+   "homepage": "https://python-future.org",
+   "license": {
+    "fullName": "MIT License",
+    "shortName": "mit",
+    "spdxId": "MIT",
+    "url": "http://spdx.org/licenses/MIT"
+   },
+   "long_description": "python-future is the missing compatibility layer between Python 2 and\nPython 3. It allows you to use a single, clean Python 3.x-compatible\ncodebase to support both Python 2 and Python 3 with minimal overhead.\n\nIt provides future and past packages with backports and forward ports\nof features from Python 3 and 2. It also comes with futurize and\npasteurize, customized 2to3-based scripts that helps you to convert\neither Py2 or Py3 code easily to support both Python 2 and 3 in a\nsingle clean Py3-style codebase, module by module.\n",
+   "maintainers": [
+    "Pavan Rikhi <pavan.rikhi@gmail.com>",
+    "Florian Friesdorf <flo@chaoflow.net>",
+    "Domen Kozar <domen@dev.si>"
+   ],
+   "name": "python3.4-future",
+   "platforms": [
+    "i686-linux",
+    "x86_64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7l-linux",
+    "mips64el-linux"
+   ],
+   "position": "pkgs/top-level/python-packages.nix:8467"
+  },
+  "revs": [
+   "007d1b41fcde11c7eb9a12adfd6786eaa0b34ed5",
+   "3ade072aade5ba4ce4a09ce286f4229070926f22"
+  ]
+ },
+ "0.15.2": {
+  "meta": {
+   "description": "Clean single-source support for Python 3 and 2",
+   "homepage": "https://python-future.org",
+   "license": {
+    "fullName": "MIT License",
+    "shortName": "mit",
+    "spdxId": "MIT",
+    "url": "http://spdx.org/licenses/MIT"
+   },
+   "long_description": "python-future is the missing compatibility layer between Python 2 and\nPython 3. It allows you to use a single, clean Python 3.x-compatible\ncodebase to support both Python 2 and Python 3 with minimal overhead.\n\nIt provides future and past packages with backports and forward ports\nof features from Python 3 and 2. It also comes with futurize and\npasteurize, customized 2to3-based scripts that helps you to convert\neither Py2 or Py3 code easily to support both Python 2 and 3 in a\nsingle clean Py3-style codebase, module by module.\n",
+   "maintainers": [
+    "Pavan Rikhi <pavan.rikhi@gmail.com>",
+    "Florian Friesdorf <flo@chaoflow.net>",
+    "Domen Kozar <domen@dev.si>"
+   ],
+   "name": "python3.4-future",
+   "platforms": [
+    "i686-linux",
+    "x86_64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7l-linux",
+    "mips64el-linux"
+   ],
+   "position": "pkgs/top-level/python-packages.nix:8655"
+  },
+  "revs": [
+   "001341f8c98af998da57d5b15a279b64efff4689",
+   "936dfeb700d185b3299a17308b548746f95e8900"
+  ]
+ }
+}

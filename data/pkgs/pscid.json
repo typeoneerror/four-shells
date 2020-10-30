@@ -1,0 +1,82 @@
+{
+ "2.8.5": {
+  "meta": {
+   "description": "A lightweight editor experience for PureScript development",
+   "homepage": "https://github.com/kritzcreek/pscid#readme",
+   "license": "LGPL-3.0",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_pscid",
+   "platforms": null,
+   "position": "pkgs/development/node-packages/node-packages-v10.nix:68368"
+  },
+  "revs": [
+   "001be890f78f04df86938f44c0761676e299ceac",
+   "7b9129a98146cff91360419541955f55c5a09aec"
+  ]
+ },
+ "2.9.0": {
+  "meta": {
+   "description": "A lightweight editor experience for PureScript development",
+   "homepage": "https://github.com/kritzcreek/pscid#readme",
+   "license": "LGPL-3.0",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_pscid",
+   "platforms": null,
+   "position": "pkgs/development/node-packages/node-packages-v10.nix:73435"
+  },
+  "revs": [
+   "0005b13fc5f3c4c3bf3d0bb5f7ea4330b36c0bcc",
+   "7fc57f2020ca1d4e70ff4dfb9c2dd0e67ecced39"
+  ]
+ },
+ "2.9.1": {
+  "meta": {
+   "description": "A lightweight editor experience for PureScript development",
+   "homepage": "https://github.com/kritzcreek/pscid#readme",
+   "license": "LGPL-3.0",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_pscid",
+   "platforms": null,
+   "position": "pkgs/development/node-packages/node-packages.nix:74143"
+  },
+  "revs": [
+   "0026092213b837bbefeb5cb3ccb46c975ca79284",
+   "79f4822a30ae5522ad66229527d04241e22a6722"
+  ]
+ },
+ "2.9.2": {
+  "meta": {
+   "description": "A lightweight editor experience for PureScript development",
+   "homepage": "https://github.com/kritzcreek/pscid#readme",
+   "license": "LGPL-3.0",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_pscid",
+   "platforms": null,
+   "position": "pkgs/development/node-packages/node-packages.nix:74392"
+  },
+  "revs": [
+   "04570e620dea83aaac9e539eccfbde81400bf3cc",
+   "5d29fd1359105ebee746603b3cf35b2fdf0deca8"
+  ]
+ },
+ "2.9.3": {
+  "meta": {
+   "description": "A lightweight editor experience for PureScript development",
+   "homepage": "https://github.com/kritzcreek/pscid#readme",
+   "license": "LGPL-3.0",
+   "long_description": "",
+   "maintainers": [],
+   "name": "node_pscid",
+   "platforms": null,
+   "position": "pkgs/development/node-packages/node-packages.nix:75464"
+  },
+  "revs": [
+   "00022fbeda385d7b6ae2eee44f07eecfc6d92015",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

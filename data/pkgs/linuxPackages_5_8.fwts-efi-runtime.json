@@ -1,0 +1,1244 @@
+{
+ "20.06.01-5.8": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "01c2ba857590ca8d156682e478d297201b715ea2",
+   "60ce27db2b405c0de1b870b2d04056e71d704133"
+  ]
+ },
+ "20.07.00-5.8": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "038e86ffbb76bd54b922e68f5514102e36bec96b",
+   "48309677368e3fac5489326e00f1d6b0513d2b8e"
+  ]
+ },
+ "20.07.00-5.8.10": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "012b501a12d140953355c311c7319883f5e71105",
+   "17b6d3fd0f45d8f231d056ff54d4b82fceec151f"
+  ]
+ },
+ "20.07.00-5.8.11": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "008de9ca3cd22658df19276032f5d3f403a51090",
+   "1a9ecdf2401faba9af7589ce3fcb69636d49c1ba"
+  ]
+ },
+ "20.07.00-5.8.12": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "01af9655860f852001a978fe62494be154686e5e",
+   "60544f9b174541043cec61c4a8aff994343e4df9"
+  ]
+ },
+ "20.07.00-5.8.13": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "001334b47c6cdfc35e94805380484e75004cdbf5",
+   "724d372a3ac4e6028951b21f211529bd9d9dc7b3"
+  ]
+ },
+ "20.07.00-5.8.14": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "006e716e79dba72df07d2d52580e883f13b525ea",
+   "03416d8eaeb0bd895663a88b41fb614894d939d4"
+  ]
+ },
+ "20.07.00-5.8.15": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "05d90313993c0912521780dbb0fc1c35d5520e06",
+   "8ac2624aa3f90a66c289dcc8dff7672cc0e5ea42"
+  ]
+ },
+ "20.07.00-5.8.16": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "012e55a4606cd7290a0248313659eef1be9988ef",
+   "9b02189990a0e3cc93bb610944453df052074758"
+  ]
+ },
+ "20.07.00-5.8.17": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "07946a120638a3376b69e2a7c1097463bbe4e513",
+   "7bd21d3e2da8b9ae394258cef9f18bf0a8dd2d47"
+  ]
+ },
+ "20.07.00-5.8.18": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "0ef4108e529d7ccd1907cdc56c70471d6eeb57b0",
+   "9a8ee5568d5479b0c38b40eabbcc1340047b8abe"
+  ]
+ },
+ "20.07.00-5.8.3": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "06abd5c4f146635ad1b048f43322faeb007b730d",
+   "4c8a8800d3fc49f0f2f04b1b6200173dec10d8a6"
+  ]
+ },
+ "20.07.00-5.8.4": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "000bb5ee45e3fa0339ccf64f33a2959c553aeab1",
+   "815eaa5206dcc9ffefb2d8dacf10aca1f89c45f6"
+  ]
+ },
+ "20.07.00-5.8.5": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "008f45f5916dd0fe3d9a591833fb92dce92dc777",
+   "5443d4607fcd62159a36d7c15ec7b14551e128e7"
+  ]
+ },
+ "20.07.00-5.8.6": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "000404944c6da404f013111563bcc0084b270e28",
+   "7980e04dcc4e75789f3fd3ad463fbd5cdaece616"
+  ]
+ },
+ "20.07.00-5.8.7": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "00e0bdf938e131cfadefa7193b384d03a489dd60",
+   "5585bd755dc360ee8e003c1adab5a8c6333b9aa2"
+  ]
+ },
+ "20.07.00-5.8.8": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "0065551641cccec146f6232df213d5cd30109e09",
+   "9447a07a106dd5429e791c076933b32a2335418e"
+  ]
+ },
+ "20.07.00-5.8.9": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "0023908b4ecef4e889a9bb524394f53c014950fe",
+   "7eb8362d10c2b063b24b625821c3b05fe4c5983b"
+  ]
+ },
+ "20.08.00-5.8.11": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "004676ce9c8275598182884c9e5a823a34eaa173",
+   "14245d48a433f9470cb9a2072cc2c433078b6f35"
+  ]
+ },
+ "20.08.00-5.8.12": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "01835945ca8a3db30c044b7d1f2c880f42ecf448",
+   "59c4870a9691d23fd4372af53fff740e4e66cfab"
+  ]
+ },
+ "20.08.00-5.8.13": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "0093e4e6a9998f1ff59e79ec31f2341770b7bebb",
+   "94fd56594a6543fac73e972952d87ed635cfbda4"
+  ]
+ },
+ "20.08.00-5.8.14": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "00e3a3a8552f844a82ddb56a9e96675bbea07739",
+   "7f271858cd32c67d5802e70ed574fbeef70374dc"
+  ]
+ },
+ "20.08.00-5.8.15": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "00daf410b5aba389849b8e01147da7c0c1683d89",
+   "5f6707d1b5420cf2826202ccae9b11aefef72277"
+  ]
+ },
+ "20.08.00-5.8.16": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "002750572a39758aabf552e90b4d0ce65092ba58",
+   "801104bdc5f746dc2a26f54a4e019c5c50d31430"
+  ]
+ },
+ "20.08.00-5.8.17": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "0126c86672b7d14843225df16ddfefd7091eabe7",
+   "83f0bccc89b6cd6de576609bb49abcb3f507d58e"
+  ]
+ },
+ "20.09.00-5.8.17": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "036cec187c1f079566c456d390c97c1deb412b42",
+   "6872c4df544cfe1504754e52aa3703819ea29396"
+  ]
+ },
+ "20.09.00-5.8.18": {
+  "meta": {
+   "description": "Firmware Test Suite(efi-runtime kernel module)",
+   "homepage": "https://wiki.ubuntu.com/FirmwareTestSuite",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "w@wdtz.org",
+     "github": "dtzWill",
+     "githubId": 817330,
+     "keys": [
+      {
+       "fingerprint": "389A 78CB CD88 5E0C 4701  DEB9 FD42 C7D0 D414 94C8",
+       "longkeyid": "rsa4096/0xFD42C7D0D41494C8"
+      }
+     ],
+     "name": "Will Dietz"
+    }
+   ],
+   "name": "fwts-efi-runtime",
+   "platforms": [
+    "aarch64-linux",
+    "armv5tel-linux",
+    "armv6l-linux",
+    "armv7a-linux",
+    "armv7l-linux",
+    "mipsel-linux",
+    "i686-linux",
+    "x86_64-linux",
+    "powerpc64le-linux",
+    "riscv32-linux",
+    "riscv64-linux"
+   ],
+   "position": "pkgs/os-specific/linux/fwts/module.nix:27"
+  },
+  "revs": [
+   "00d6fff6303531fb9ee4ae9761e888407485ba22",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

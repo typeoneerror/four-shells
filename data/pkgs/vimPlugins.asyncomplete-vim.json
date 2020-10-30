@@ -1,0 +1,66 @@
+{
+ "2020-08-09": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/prabirshrestha/asyncomplete.vim/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-asyncomplete-vim",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:140"
+  },
+  "revs": [
+   "0023908b4ecef4e889a9bb524394f53c014950fe",
+   "24aedc9a1437a048fb14386010e6a0f6bda6b74b"
+  ]
+ },
+ "2020-09-17": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/prabirshrestha/asyncomplete.vim/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-asyncomplete-vim",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:140"
+  },
+  "revs": [
+   "002750572a39758aabf552e90b4d0ce65092ba58",
+   "94fd56594a6543fac73e972952d87ed635cfbda4"
+  ]
+ },
+ "2020-10-21": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/prabirshrestha/asyncomplete.vim/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-asyncomplete-vim",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:140"
+  },
+  "revs": [
+   "0126c86672b7d14843225df16ddfefd7091eabe7",
+   "0788a95557f33a9345a75aa6e138b9e623301a07"
+  ]
+ },
+ "2020-11-04": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/prabirshrestha/asyncomplete.vim/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-asyncomplete-vim",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:140"
+  },
+  "revs": [
+   "0c6e5e15f8c952f0b2844cead019868e93aedb19",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

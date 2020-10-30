@@ -1,0 +1,70 @@
+{
+ "2018-03-06": {
+  "meta": {
+   "description": "A fully non-destructive photo retouching program providing a complete RAW image editing workflow",
+   "homepage": "https://aferrero2707.github.io/PhotoFlow/",
+   "license": {
+    "fullName": "GNU General Public License v3.0 or later",
+    "shortName": "gpl3Plus",
+    "spdxId": "GPL-3.0+",
+    "url": "http://spdx.org/licenses/GPL-3.0+.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "marko.nixos@poikonen.de",
+     "github": "MtP76",
+     "name": "Marko Poikonen"
+    }
+   ],
+   "name": "photoflow-unstable",
+   "platforms": [
+    {}
+   ],
+   "position": "pkgs/applications/graphics/photoflow/default.nix:49"
+  },
+  "revs": [
+   "000482ffc470f798fb3aa1673b39a38680cbb567",
+   "679d5e8bd5089b6c824a8d0d3d541c3a142460f7"
+  ]
+ },
+ "2018-08-28": {
+  "meta": {
+   "description": "A fully non-destructive photo retouching program providing a complete RAW image editing workflow",
+   "homepage": "https://aferrero2707.github.io/PhotoFlow/",
+   "license": {
+    "fullName": "GNU General Public License v3.0 or later",
+    "shortName": "gpl3Plus",
+    "spdxId": "GPL-3.0+",
+    "url": "http://spdx.org/licenses/GPL-3.0+.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "marko.nixos@poikonen.de",
+     "github": "MtP76",
+     "name": "Marko Poikonen"
+    }
+   ],
+   "name": "photoflow-unstable",
+   "platforms": [
+    {
+     "kernel": {
+      "_type": "kernel",
+      "execFormat": {
+       "_type": "exec-format",
+       "name": "elf"
+      },
+      "families": {},
+      "name": "linux"
+     }
+    }
+   ],
+   "position": "pkgs/applications/graphics/photoflow/default.nix:49"
+  },
+  "revs": [
+   "00005ce0bdbc3c13804adc9a7fd71a02cc0b8db2",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

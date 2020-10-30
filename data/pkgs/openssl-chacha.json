@@ -1,0 +1,51 @@
+{
+ "2016-01-27": {
+  "meta": {
+   "description": "A cryptographic library that implements the SSL and TLS protocols",
+   "homepage": "http://www.openssl.org/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [
+    "Charles Strahan <charles@cstrahan.com>"
+   ],
+   "name": "openssl-chacha",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/development/libraries/openssl/chacha.nix:76"
+  },
+  "revs": [
+   "0000d4029e264262dcf45a822ccf3b48bcacf209",
+   "044ceae2806480555a44c91c386546cffb46ba74"
+  ]
+ },
+ "2016-08-22": {
+  "meta": {
+   "description": "A cryptographic library that implements the SSL and TLS protocols",
+   "homepage": "https://www.openssl.org/",
+   "license": {
+    "fullName": "OpenSSL License",
+    "shortName": "openssl",
+    "spdxId": "OpenSSL",
+    "url": "http://spdx.org/licenses/OpenSSL.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "charles@cstrahan.com",
+     "github": "cstrahan",
+     "name": "Charles Strahan"
+    }
+   ],
+   "name": "openssl-chacha",
+   "platforms": [
+    "x86_64-linux"
+   ],
+   "position": "pkgs/development/libraries/openssl/chacha.nix:76"
+  },
+  "revs": [
+   "00005ce0bdbc3c13804adc9a7fd71a02cc0b8db2",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

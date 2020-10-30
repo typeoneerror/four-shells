@@ -1,0 +1,18 @@
+{
+ "2016-06-01": {
+  "meta": {
+   "description": "",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-vim-surround",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/vim-utils.nix:398"
+  },
+  "revs": [
+   "0288f77c300f4e2cfa87bae31217cfbf95c584f9",
+   "41ec2c222384d05de48a7822dc68ecbb1d858755"
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "4.1.2": {
+  "meta": {
+   "description": "Scientific software package for numerical computations (Matlab lookalike)",
+   "homepage": "http://www.scilab.org/",
+   "license": "SciLab",
+   "long_description": "",
+   "maintainers": [],
+   "name": "scilab",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "000051b196b82d30d1008c8999502c484ea5bd7d",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

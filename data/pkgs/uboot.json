@@ -1,0 +1,34 @@
+{
+ "2009.11": {
+  "meta": {
+   "description": "",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "uboot",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "0be3d188964b7b702d208616535e17876464358f",
+   "912bbd7aa13be8d724293b5484b9da37f3dc255d"
+  ]
+ },
+ "3.4.19": {
+  "meta": {
+   "description": "",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "uboot-sheevaplug",
+   "platforms": null,
+   "position": ""
+  },
+  "revs": [
+   "019db7b9dcd1815bf966ef44b4b9ffc08f02374a",
+   "3687bc9e39aa46762cf257bed3c311a4a77a8db3"
+  ]
+ }
+}

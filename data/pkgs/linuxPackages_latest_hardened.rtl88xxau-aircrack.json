@@ -1,0 +1,901 @@
+{
+ "5.6.15-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "001cf3f926af996ec6d779f861bcba4ed04c5411",
+   "79e055eb3b70a16df924b369b8ebc9d319c6c287"
+  ]
+ },
+ "5.6.16-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "002e3cfbce62a8b55eba52af9c72d770e5b31547",
+   "0bee87c40085c396607b431afcc743b253567607"
+  ]
+ },
+ "5.6.17-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "0026092213b837bbefeb5cb3ccb46c975ca79284",
+   "0b2f4fd3ec0b7e56f3a287d8d84fd6fbb0eb90a0"
+  ]
+ },
+ "5.6.18-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "004c6c149aae67256853e7cd69a86626a04d02d1",
+   "79f4822a30ae5522ad66229527d04241e22a6722"
+  ]
+ },
+ "5.6.19-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "0006326d35ed4774d7936aea721ce1a5c8f0b775",
+   "88de3d02314ec069fb8cc66c6e8d87e598174804"
+  ]
+ },
+ "5.7.10-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "003f88de6502c3a7c07edb3d29f395ca0db5fe5c",
+   "51af90bc627f074c7422f6fc30415021c0d66b47"
+  ]
+ },
+ "5.7.11-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "00436f01f86c7aba22ea7299d0bb2ec848731104",
+   "00d8c11a5702868c0cf80ffc97cc896070bd3538"
+  ]
+ },
+ "5.7.12-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "01c2ba857590ca8d156682e478d297201b715ea2",
+   "60ce27db2b405c0de1b870b2d04056e71d704133"
+  ]
+ },
+ "5.7.13-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "002ecd07e128b7ee5dc4ed23f1da4abbe9007880",
+   "1127b73eee169ee67b7e34655bcff3047ec732a3"
+  ]
+ },
+ "5.7.14-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "002077c0a66d0acce6930e2ff2ab2c7d34244c64",
+   "6154471a6a8091827ea4c8aa41a3e87aa5e25de7"
+  ]
+ },
+ "5.7.15-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "0030dac5c0d5c0294ca5ae5b751831b1a252aec4",
+   "54a69eb80480016341d4825f272b9017a3bd0ac1"
+  ]
+ },
+ "5.7.16-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "003fa57c6484a63af1e72470fa2b101f4de7a79e",
+   "292de46c5b9c3f42088d3de0d74a2aedf3755fee"
+  ]
+ },
+ "5.7.17-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "026b4765bada7437c679693491ca2c6b6a1cc35c",
+   "4c8a8800d3fc49f0f2f04b1b6200173dec10d8a6"
+  ]
+ },
+ "5.7.18-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "000bb5ee45e3fa0339ccf64f33a2959c553aeab1",
+   "815eaa5206dcc9ffefb2d8dacf10aca1f89c45f6"
+  ]
+ },
+ "5.7.19-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "000404944c6da404f013111563bcc0084b270e28",
+   "9aa7dfeb6f224300236fe9124d872745c6922ae0"
+  ]
+ },
+ "5.7.7-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "005b5770f482700cf0d787106b39c5efba030ae6",
+   "5e20a0364669b39b86be1ab0453884f2344d5d7b"
+  ]
+ },
+ "5.7.8-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "0057be6ebcb3fa1e80cf66e2167f5a82346983b2",
+   "8975b7b0e2f7b02af03175ca4552f74c668b77ca"
+  ]
+ },
+ "5.7.9-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "00022fbeda385d7b6ae2eee44f07eecfc6d92015",
+   "82d0986c456cd6c35dfd970d2f5e951af55ec588"
+  ]
+ },
+ "5.8.12-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "01835945ca8a3db30c044b7d1f2c880f42ecf448",
+   "6f3203bde2b0c44182c3c5e3db2da2080bbc02b5"
+  ]
+ },
+ "5.8.13-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "001334b47c6cdfc35e94805380484e75004cdbf5",
+   "94fd56594a6543fac73e972952d87ed635cfbda4"
+  ]
+ },
+ "5.8.14-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "006e716e79dba72df07d2d52580e883f13b525ea",
+   "691005220521d6462479a64d6353b3aed0f7a255"
+  ]
+ },
+ "5.8.15-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "00daf410b5aba389849b8e01147da7c0c1683d89",
+   "8ac2624aa3f90a66c289dcc8dff7672cc0e5ea42"
+  ]
+ },
+ "5.8.16-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "002750572a39758aabf552e90b4d0ce65092ba58",
+   "801104bdc5f746dc2a26f54a4e019c5c50d31430"
+  ]
+ },
+ "5.8.17-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "0126c86672b7d14843225df16ddfefd7091eabe7",
+   "9ec73134a971a21e35c9fb71c86453a67ef5d5e4"
+  ]
+ },
+ "5.8.18-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "00d6fff6303531fb9ee4ae9761e888407485ba22",
+   "0788a95557f33a9345a75aa6e138b9e623301a07"
+  ]
+ },
+ "5.9.6-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "0251996c69b9d57b5234f9549075b9de269d13d1",
+   "972bcb496d13063543c2d38415d22da58bbd44c3"
+  ]
+ },
+ "5.9.7-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "0140aced5353da38b99a838b8a06325fb59e6226",
+   "005461a0a6d948735de009f2cf039bad7d6a968a"
+  ]
+ },
+ "5.9.8-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "019c3bb417153a2b80f483891f7f0981f6d327a8",
+   "6de789ea9bfee9b63baef72ce30300e6f4a94bdc"
+  ]
+ },
+ "5.9.9-fc0194": {
+  "meta": {
+   "description": "Aircrack-ng kernel module for Realtek 88XXau network cards\n(8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
+   "homepage": "https://github.com/aircrack-ng/rtl8812au",
+   "license": {
+    "fullName": "GNU General Public License v2.0 only",
+    "shortName": "gpl2Only",
+    "spdxId": "GPL-2.0-only",
+    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jethrokuan95@gmail.com",
+     "github": "jethrokuan",
+     "githubId": 1667473,
+     "name": "Jethro Kuan"
+    }
+   ],
+   "name": "rtl88xxau-aircrack",
+   "platforms": [
+    "x86_64-linux",
+    "i686-linux"
+   ],
+   "position": "pkgs/os-specific/linux/rtl88xxau-aircrack/default.nix:34"
+  },
+  "revs": [
+   "01229007553d9322c473c0fa36e3d6c644147e7d",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

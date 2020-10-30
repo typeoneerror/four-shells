@@ -1,0 +1,18 @@
+{
+ "4.101": {
+  "meta": {
+   "description": "Bluetooth support for Linux",
+   "homepage": "http://www.bluez.org/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "bluez",
+   "platforms": null,
+   "position": "pkgs/os-specific/linux/bluez/default.nix:51"
+  },
+  "revs": [
+   "0000d4029e264262dcf45a822ccf3b48bcacf209",
+   "4f7e6a2c20835673f167bde38f8e0e89ab3f7703"
+  ]
+ }
+}

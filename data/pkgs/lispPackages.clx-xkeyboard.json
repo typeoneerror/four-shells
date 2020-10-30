@@ -1,0 +1,18 @@
+{
+ "20150523": {
+  "meta": {
+   "description": "CLX support for X Keyboard extensions",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "lisp-clx-xkeyboard-git",
+   "platforms": null,
+   "position": "pkgs/development/lisp-modules/define-package.nix:50"
+  },
+  "revs": [
+   "0000d4029e264262dcf45a822ccf3b48bcacf209",
+   "3ba3d8d8cbec36605095d3a30ff6b82902af289c"
+  ]
+ }
+}

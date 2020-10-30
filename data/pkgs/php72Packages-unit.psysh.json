@@ -1,0 +1,84 @@
+{
+ "0.9.12": {
+  "meta": {
+   "description": "PsySH is a runtime developer console, interactive debugger and REPL for PHP.",
+   "homepage": "https://psysh.org/",
+   "license": {
+    "fullName": "MIT License",
+    "shortName": "mit",
+    "spdxId": "MIT",
+    "url": "http://spdx.org/licenses/MIT.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "nixos@caugner.de",
+     "github": "caugner",
+     "githubId": 495429,
+     "name": "Claas Augner"
+    }
+   ],
+   "name": "php-psysh",
+   "platforms": null,
+   "position": "pkgs/top-level/php-packages.nix:588"
+  },
+  "revs": [
+   "0005b13fc5f3c4c3bf3d0bb5f7ea4330b36c0bcc",
+   "7fc57f2020ca1d4e70ff4dfb9c2dd0e67ecced39"
+  ]
+ },
+ "0.9.8": {
+  "meta": {
+   "description": "PsySH is a runtime developer console, interactive debugger and REPL for PHP.",
+   "homepage": "https://psysh.org/",
+   "license": {
+    "fullName": "MIT License",
+    "shortName": "mit",
+    "spdxId": "MIT",
+    "url": "http://spdx.org/licenses/MIT.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "nixos@caugner.de",
+     "github": "caugner",
+     "name": "Claas Augner"
+    }
+   ],
+   "name": "psysh",
+   "platforms": null,
+   "position": "pkgs/top-level/php-packages.nix:431"
+  },
+  "revs": [
+   "00005ce0bdbc3c13804adc9a7fd71a02cc0b8db2",
+   "427218836457753db735b45b270411ecbf0ee697"
+  ]
+ },
+ "0.9.9": {
+  "meta": {
+   "description": "PsySH is a runtime developer console, interactive debugger and REPL for PHP.",
+   "homepage": "https://psysh.org/",
+   "license": {
+    "fullName": "MIT License",
+    "shortName": "mit",
+    "spdxId": "MIT",
+    "url": "http://spdx.org/licenses/MIT.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "nixos@caugner.de",
+     "github": "caugner",
+     "name": "Claas Augner"
+    }
+   ],
+   "name": "php-psysh",
+   "platforms": null,
+   "position": "pkgs/top-level/php-packages.nix:489"
+  },
+  "revs": [
+   "00078b99ee8baded7fc89e9e1e3501068a2c7fff",
+   "0a5b8d9bf64b94ec36c61ad4da4c34cda85a7aed"
+  ]
+ }
+}

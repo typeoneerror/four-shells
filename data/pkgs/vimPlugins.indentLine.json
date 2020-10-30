@@ -1,0 +1,114 @@
+{
+ "2019-02-22": {
+  "meta": {
+   "description": "",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-indentLine",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:874"
+  },
+  "revs": [
+   "00078b99ee8baded7fc89e9e1e3501068a2c7fff",
+   "0a5b8d9bf64b94ec36c61ad4da4c34cda85a7aed"
+  ]
+ },
+ "2019-10-26": {
+  "meta": {
+   "description": "",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-indentLine",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:1435"
+  },
+  "revs": [
+   "000f19ff08cfaf6ce89b136ea986fde64f750555",
+   "7fc57f2020ca1d4e70ff4dfb9c2dd0e67ecced39"
+  ]
+ },
+ "2020-03-06": {
+  "meta": {
+   "description": "",
+   "homepage": "",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-indentLine",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:1589"
+  },
+  "revs": [
+   "0005b13fc5f3c4c3bf3d0bb5f7ea4330b36c0bcc",
+   "296987361b1b6f7a77712749ec42f32fea3782e0"
+  ]
+ },
+ "2020-05-29": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/Yggdroot/indentLine/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-indentLine",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:1862"
+  },
+  "revs": [
+   "00022fbeda385d7b6ae2eee44f07eecfc6d92015",
+   "4c8a8800d3fc49f0f2f04b1b6200173dec10d8a6"
+  ]
+ },
+ "2020-09-04": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/Yggdroot/indentLine/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-indentLine",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:1622"
+  },
+  "revs": [
+   "0023908b4ecef4e889a9bb524394f53c014950fe",
+   "94fd56594a6543fac73e972952d87ed635cfbda4"
+  ]
+ },
+ "2020-10-12": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/Yggdroot/indentLine/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-indentLine",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:1646"
+  },
+  "revs": [
+   "0126c86672b7d14843225df16ddfefd7091eabe7",
+   "2edac44b201f5a3c6a761a1434dae66c93910621"
+  ]
+ },
+ "2020-11-11": {
+  "meta": {
+   "description": "",
+   "homepage": "https://github.com/Yggdroot/indentLine/",
+   "license": null,
+   "long_description": "",
+   "maintainers": [],
+   "name": "vimplugin-indentLine",
+   "platforms": null,
+   "position": "pkgs/misc/vim-plugins/generated.nix:1658"
+  },
+  "revs": [
+   "001a975b752011a2a84413817d1c43a2200e6c74",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}

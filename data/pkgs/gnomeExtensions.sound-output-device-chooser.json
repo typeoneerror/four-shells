@@ -1,0 +1,195 @@
+{
+ "2018-12-30": {
+  "meta": {
+   "description": "GNOME Shell extension adding audio device chooser to panel",
+   "homepage": "https://github.com/kgshank/gse-sound-output-device-chooser",
+   "license": {
+    "fullName": "GNU General Public License v3.0 only",
+    "shortName": "gpl3",
+    "spdxId": "GPL-3.0-only",
+    "url": "http://spdx.org/licenses/GPL-3.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jtojnar@gmail.com",
+     "github": "jtojnar",
+     "name": "Jan Tojnar"
+    }
+   ],
+   "name": "gnome-shell-extension-sound-output-device-chooser-unstable",
+   "platforms": null,
+   "position": "pkgs/desktops/gnome-3/extensions/sound-output-device-chooser/default.nix:23"
+  },
+  "revs": [
+   "0015e526c7a3a70db5055b9e68c951a21cc3519f",
+   "4c0837bffbf33abdfa93466764ef439c3cf41249"
+  ]
+ },
+ "2019-03-10": {
+  "meta": {
+   "description": "GNOME Shell extension adding audio device chooser to panel",
+   "homepage": "https://github.com/kgshank/gse-sound-output-device-chooser",
+   "license": {
+    "fullName": "GNU General Public License v3.0 only",
+    "shortName": "gpl3",
+    "spdxId": "GPL-3.0-only",
+    "url": "http://spdx.org/licenses/GPL-3.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jtojnar@gmail.com",
+     "github": "jtojnar",
+     "name": "Jan Tojnar"
+    }
+   ],
+   "name": "gnome-shell-extension-sound-output-device-chooser-unstable",
+   "platforms": null,
+   "position": "pkgs/desktops/gnome-3/extensions/sound-output-device-chooser/default.nix:23"
+  },
+  "revs": [
+   "00541faa4a91b68adc18c7b62e954e839dcacc5c",
+   "974f64f0c607d1acbc6c7f8d7f5bbf8b730f8282"
+  ]
+ },
+ "2019-04-01": {
+  "meta": {
+   "description": "GNOME Shell extension adding audio device chooser to panel",
+   "homepage": "https://github.com/kgshank/gse-sound-output-device-chooser",
+   "license": {
+    "fullName": "GNU General Public License v3.0 only",
+    "shortName": "gpl3",
+    "spdxId": "GPL-3.0-only",
+    "url": "http://spdx.org/licenses/GPL-3.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jtojnar@gmail.com",
+     "github": "jtojnar",
+     "name": "Jan Tojnar"
+    }
+   ],
+   "name": "gnome-shell-extension-sound-output-device-chooser-unstable",
+   "platforms": null,
+   "position": "pkgs/desktops/gnome-3/extensions/sound-output-device-chooser/default.nix:23"
+  },
+  "revs": [
+   "00078b99ee8baded7fc89e9e1e3501068a2c7fff",
+   "0a5b8d9bf64b94ec36c61ad4da4c34cda85a7aed"
+  ]
+ },
+ "24": {
+  "meta": {
+   "description": "GNOME Shell extension adding audio device chooser to panel",
+   "homepage": "https://github.com/kgshank/gse-sound-output-device-chooser",
+   "license": {
+    "fullName": "GNU General Public License v3.0 only",
+    "shortName": "gpl3",
+    "spdxId": "GPL-3.0-only",
+    "url": "http://spdx.org/licenses/GPL-3.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jtojnar@gmail.com",
+     "github": "jtojnar",
+     "githubId": 705123,
+     "name": "Jan Tojnar"
+    }
+   ],
+   "name": "gnome-shell-extension-sound-output-device-chooser",
+   "platforms": null,
+   "position": "pkgs/desktops/gnome-3/extensions/sound-output-device-chooser/default.nix:23"
+  },
+  "revs": [
+   "000f19ff08cfaf6ce89b136ea986fde64f750555",
+   "7fc57f2020ca1d4e70ff4dfb9c2dd0e67ecced39"
+  ]
+ },
+ "25": {
+  "meta": {
+   "description": "GNOME Shell extension adding audio device chooser to panel",
+   "homepage": "https://github.com/kgshank/gse-sound-output-device-chooser",
+   "license": {
+    "fullName": "GNU General Public License v3.0 only",
+    "shortName": "gpl3",
+    "spdxId": "GPL-3.0-only",
+    "url": "http://spdx.org/licenses/GPL-3.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jtojnar@gmail.com",
+     "github": "jtojnar",
+     "githubId": 705123,
+     "name": "Jan Tojnar"
+    }
+   ],
+   "name": "gnome-shell-extension-sound-output-device-chooser",
+   "platforms": null,
+   "position": "pkgs/desktops/gnome-3/extensions/sound-output-device-chooser/default.nix:36"
+  },
+  "revs": [
+   "0005b13fc5f3c4c3bf3d0bb5f7ea4330b36c0bcc",
+   "733acfa140d5b73bc69c53c4ebd90ccc5f281f0e"
+  ]
+ },
+ "28": {
+  "meta": {
+   "description": "GNOME Shell extension adding audio device chooser to panel",
+   "homepage": "https://github.com/kgshank/gse-sound-output-device-chooser",
+   "license": {
+    "fullName": "GNU General Public License v3.0 only",
+    "shortName": "gpl3Only",
+    "spdxId": "GPL-3.0-only",
+    "url": "https://spdx.org/licenses/GPL-3.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jtojnar@gmail.com",
+     "github": "jtojnar",
+     "githubId": 705123,
+     "name": "Jan Tojnar"
+    }
+   ],
+   "name": "gnome-shell-extension-sound-output-device-chooser",
+   "platforms": null,
+   "position": "pkgs/desktops/gnome-3/extensions/sound-output-device-chooser/default.nix:38"
+  },
+  "revs": [
+   "00022fbeda385d7b6ae2eee44f07eecfc6d92015",
+   "5544734b23ce054c49f484dbb2dcee67ec2a2c7d"
+  ]
+ },
+ "32": {
+  "meta": {
+   "description": "GNOME Shell extension adding audio device chooser to panel",
+   "homepage": "https://github.com/kgshank/gse-sound-output-device-chooser",
+   "license": {
+    "fullName": "GNU General Public License v3.0 only",
+    "shortName": "gpl3Only",
+    "spdxId": "GPL-3.0-only",
+    "url": "https://spdx.org/licenses/GPL-3.0-only.html"
+   },
+   "long_description": "",
+   "maintainers": [
+    {
+     "email": "jtojnar@gmail.com",
+     "github": "jtojnar",
+     "githubId": 705123,
+     "name": "Jan Tojnar"
+    }
+   ],
+   "name": "gnome-shell-extension-sound-output-device-chooser",
+   "platforms": null,
+   "position": "pkgs/desktops/gnome-3/extensions/sound-output-device-chooser/default.nix:38"
+  },
+  "revs": [
+   "01229007553d9322c473c0fa36e3d6c644147e7d",
+   "01229007553d9322c473c0fa36e3d6c644147e7d"
+  ]
+ }
+}
